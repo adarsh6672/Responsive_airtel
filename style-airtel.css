@@ -1,0 +1,25 @@
+.but1{
+    background-color: transparent;
+    font-size: 11px;
+    border: none;
+    align-items: baseline;
+}
+.nav{
+  
+    border-top: 1px solid 170, 167, 167black;
+    border-bottom: 1px solid rgb(170, 167, 167);
+}
+.drop{
+    background-color: transparent;
+    border: none;
+}
+.but1:hover{
+    
+}
+.butt{
+    align-items:end;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: red;
+    border-top: 1px solid red;
+}
